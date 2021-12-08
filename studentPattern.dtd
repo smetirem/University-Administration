@@ -1,0 +1,10 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/xsl" href="studentsXSL.xsl"?>
+<!ELEMENT student  (name, last_name, courses, average)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT course (course)>
+<!ELEMENT course (#PCDATA)>
+<!ELEMENT average (#PCDATA)>
+<!ATTLIST student progress #CDATA #REQUIRED>
+

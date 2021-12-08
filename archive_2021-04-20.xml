@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE std SYSTEM "studentPattern.dtd">
+<std>
+  <student progress="0">
+    <name>    Μάριος </name>
+    <last_name>    Αλευράς    </last_name>
+    <courses>
+      <course>   Μαθηματικά 1</course>
+    </courses>
+    <average>5.0000</average>
+  </student>
+  <student progress="1">
+    <name>   Μαρία </name>
+    <last_name>     Κρασά     </last_name>
+    <courses>
+      <course> Χημεία </course>
+    </courses>
+    <average>9.0000</average>
+  </student>
+  <student progress="1">
+    <name>        Κώστας </name>
+    <last_name>           Καρράς   </last_name>
+    <courses>
+      <course> Φυσική 1 </course>
+    </courses>
+    <average>8.0000</average>
+  </student>
+</std>
